@@ -1,0 +1,34 @@
+body,html{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content{
+    margin: 0 auto;
+    max-width: 800px;
+    /* padding: 10px; */
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    text-align: center;
+    padding: 5px;
+}
+/* th, td {
+    padding: 5p x;
+    text-align: left;
+} */
+.from{
+    margin-top:20px;
+}
+#content {
+    width: 78%; 
+    /* float: left; */
+}
